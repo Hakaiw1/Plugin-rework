@@ -2,7 +2,6 @@
  * Change Log:
  * 1.0.1 (18-March-2025)
  *     - Fixed permanent fade issue by ensuring fade is cleared on ride end and client disconnect.
- *     - Fixed compilation error with ternary operator in array assignment.
  * 1.0.0 (19-July-2022)
  *     - Initial release.
  */
